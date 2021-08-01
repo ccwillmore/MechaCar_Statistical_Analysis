@@ -1,0 +1,2 @@
+library(tidyverse)
+MechaCar_data <- read.csv('MechaCar_mpg.csv',check.names = F,stringsAsFactors = F)
